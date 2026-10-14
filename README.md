@@ -26,7 +26,7 @@ The goal is to practice practical data analytics skills, turn raw data into mean
 - **Pandas** — Data manipulation, filtering, grouping, and aggregation
 - **NumPy** — Numerical computing
 - **Matplotlib** — Data visualization
-- **Jupyter Notebook / Google Colab** — Analysis environment
+- **Jupyter Notebook / Google Colab** - Analysis environment
 
 ## Dataset
 
